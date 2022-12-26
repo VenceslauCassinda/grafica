@@ -1,0 +1,4 @@
+#Tue Dec 13 12:57:47 WAT 2022
+base.0=/home/venceslau/Documentos/PROJECTOS/YetuWorkSpace/yetu_gestor/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
